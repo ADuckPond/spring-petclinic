@@ -1,4 +1,4 @@
-FROM alpine:3.20.0
+FROM openjdk:23-ea-jdk-oracle
 
 RUN mkdir petclinic
 ADD target /petclinic/.
