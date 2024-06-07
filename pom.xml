@@ -298,7 +298,7 @@
     <repository>
       <id>maven-springframework-boot</id>
       <name>maven-springframework-boot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <url>https://aduckpond.jfrog.io/artifactory/maven-springframework-boot/</url>
     </repository>
   </repositories>
 
@@ -316,7 +316,7 @@
     <pluginRepository>
       <id>maven-springframework-boot</id>
       <name>maven-springframework-boot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <url>https://aduckpond.jfrog.io/artifactory/maven-springframework-boot/</url>
     </pluginRepository>
   </pluginRepositories>
 
