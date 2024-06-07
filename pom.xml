@@ -289,17 +289,11 @@
       <id>springio</id>
       <name>springio</name>
       <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
     </repository>
     <repository>
       <id>mavenCentral</id>
       <name>mavenCentral</name>
       <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
     </repository>
   </repositories>
 
@@ -308,17 +302,11 @@
       <id>springio</id>
       <name>springio</name>
       <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
     </pluginRepository>
     <pluginRepository>
       <id>mavenCentral</id>
       <name>mavenCentral</name>
       <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
     </pluginRepository>
   </pluginRepositories>
 
