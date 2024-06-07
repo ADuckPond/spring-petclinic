@@ -286,8 +286,8 @@
 
   <repositories>
       <repository>
-          <id>mvn-maven-remote</id>
-          <url>https://aduckpond.jfrog.io/artifactory/mvn-maven-remote/</url>
+          <id>springio</id>
+          <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
@@ -296,8 +296,8 @@
 
   <pluginRepositories>
       <pluginRepository>
-          <id>mvn-maven-remote</id>
-          <url>https://aduckpond.jfrog.io/artifactory/mvn-maven-remote/</url>
+          <id>springio</id>
+          <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
