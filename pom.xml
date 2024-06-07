@@ -295,6 +295,11 @@
       <name>mavenCentral</name>
       <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
     </repository>
+    <repository>
+      <id>maven-springframework-boot</id>
+      <name>maven-springframework-boot</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+    </repository>
   </repositories>
 
   <pluginRepositories>
@@ -308,6 +313,11 @@
       <name>mavenCentral</name>
       <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
     </pluginRepository>
+    <repository>
+      <id>maven-springframework-boot</id>
+      <name>maven-springframework-boot</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+    </repository>
   </pluginRepositories>
 
   <profiles>
