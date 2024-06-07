@@ -287,7 +287,7 @@
   <repositories>
       <repository>
           <id>mvn-libs-release-local</id>
-          <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+          <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release-local/</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
