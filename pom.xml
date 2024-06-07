@@ -294,17 +294,9 @@
       </snapshots>
     </repository>
     <repository>
-      <id>mvn-libs-release</id>
-      <name>mvn-libs-release</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
-    <repository>
-      <id>mvn-libs-snapshot</id>
-      <name>mvn-libs-snapshot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-snapshot/</url>
+      <id>mavenCentral</id>
+      <name>mavenCentral</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
@@ -321,17 +313,9 @@
       </snapshots>
     </pluginRepository>
     <pluginRepository>
-      <id>mvn-libs-release</id>
-      <name>mvn-libs-release</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </pluginRepository>
-    <pluginRepository>
-      <id>mvn-libs-snapshot</id>
-      <name>mvn-libs-snapshot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-snapshot/</url>
+      <id>mavenCentral</id>
+      <name>mavenCentral</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mavenCentral/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
