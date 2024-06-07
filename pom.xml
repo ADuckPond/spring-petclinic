@@ -286,37 +286,17 @@
 
   <repositories>
     <repository>
-      <id>springio</id>
-      <name>springio</name>
-      <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
-    </repository>
-    <repository>
       <id>mvn-maven-remote</id>
       <name>mvn-maven-remote</name>
       <url>https://aduckpond.jfrog.io/artifactory/mvn-maven-remote/</url>
-    </repository>
-    <repository>
-      <id>maven-springframework-boot</id>
-      <name>maven-springframework-boot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/maven-springframework-boot/</url>
     </repository>
   </repositories>
 
   <pluginRepositories>
     <pluginRepository>
-      <id>springio</id>
-      <name>springio</name>
-      <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
-    </pluginRepository>
-    <pluginRepository>
       <id>mvn-maven-remote</id>
       <name>mvn-maven-remote</name>
       <url>https://aduckpond.jfrog.io/artifactory/mvn-maven-remote/</url>
-    </pluginRepository>
-    <pluginRepository>
-      <id>maven-springframework-boot</id>
-      <name>maven-springframework-boot</name>
-      <url>https://aduckpond.jfrog.io/artifactory/maven-springframework-boot/</url>
     </pluginRepository>
   </pluginRepositories>
 
