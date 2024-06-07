@@ -302,14 +302,6 @@
       </snapshots>
     </repository>
     <repository>
-      <id>mvn-libs-release</id>
-      <name>mvn-libs-release</name>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
-    <repository>
       <id>mvn-libs-snapshot</id>
       <name>mvn-libs-snapshot</name>
       <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-snapshot/</url>
