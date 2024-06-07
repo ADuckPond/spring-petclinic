@@ -293,6 +293,30 @@
         <enabled>true</enabled>
       </snapshots>
     </repository>
+    <repository>
+      <id>mvn-libs-release</id>
+      <name>mvn-libs-release</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+    <repository>
+      <id>mvn-libs-release</id>
+      <name>mvn-libs-release</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+    <repository>
+      <id>mvn-libs-snapshot</id>
+      <name>mvn-libs-snapshot</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-snapshot/</url>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </repository>
   </repositories>
 
   <pluginRepositories>
@@ -300,6 +324,22 @@
       <id>springio</id>
       <name>springio</name>
       <url>https://aduckpond.jfrog.io/artifactory/springio/</url>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </pluginRepository>
+    <pluginRepository>
+      <id>mvn-libs-release</id>
+      <name>mvn-libs-release</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </pluginRepository>
+    <pluginRepository>
+      <id>mvn-libs-snapshot</id>
+      <name>mvn-libs-snapshot</name>
+      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-snapshot/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
