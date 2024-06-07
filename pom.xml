@@ -286,8 +286,8 @@
 
   <repositories>
     <repository>
-      <id>mvn-libs-release</id>
-      <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release/</url>
+      <id>jcenter</id>
+      <url>https://jcenter.bintray.com/</url>
     </repository>
   </repositories>
 
