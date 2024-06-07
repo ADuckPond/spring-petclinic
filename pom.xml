@@ -286,9 +286,8 @@
 
   <repositories>
       <repository>
-          <id>central</id>
-          <name>bintray</name>
-          <url>https://jcenter.bintray.com</url>
+          <id>mvn-libs-release-local</id>
+          <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release-local/</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
@@ -297,9 +296,8 @@
 
   <pluginRepositories>
       <pluginRepository>
-          <id>central</id>
-          <name>bintray-plugins</name>
-          <url>https://jcenter.bintray.com</url>
+          <id>mvn-libs-release-local</id>
+          <url>https://aduckpond.jfrog.io/artifactory/mvn-libs-release-local/</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
